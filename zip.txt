@@ -1,0 +1,15 @@
+var obj = {
+  11:'ruby',
+  21:'gold',
+  31:'diamond'
+
+}
+
+$('#num').on('keyup',function() {
+  var key = $(this).val(),
+  result = obj[key],
+  $text = $('#text')
+  if (result != undefined) {
+    $text.val(result);
+  } else {
+    $text.val('')}})

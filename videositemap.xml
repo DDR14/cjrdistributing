@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>http://www.cjrtec.com/videos.php</loc>
+	<changefreq>always</changefreq>
+	<priority>1.0</priority>
+
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/8IJtbHb-K9c</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/8IJtbHb-K9c/default.jpg</video:thumbnail_loc>
+	<video:title>CNC Beam HMI</video:title>
+	<video:description>This is a CNC Beam Press with HMI or Human-Machine Interaction.</video:description>
+	<video:tag>Beam Press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>	
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/3clqzZ_l7Vw</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/3clqzZ_l7Vw/default.jpg</video:thumbnail_loc>
+	<video:title>CJR Tec Signature Series 2017 Swing Arm Press</video:title>
+	<video:description>2017 model of a Swing Arm Clicker Press can cut thin materials like plastic, rubber, leather, fabric, and various textiles.  </video:description>
+	<video:tag>2017 Automatic Press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/LibDSEk3erc</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/LibDSEk3erc/default.jpg</video:thumbnail_loc>
+	<video:title>CJR HMI software Cutting Delay explained</video:title>
+	<video:description>There is a reason behind the cutting delay of the built-in HMI software of a clicker press machine. </video:description>
+	<video:tag>Clicker Press Tutorial</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/vVxpv30_c6M</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/vVxpv30_c6M/default.jpg</video:thumbnail_loc>
+	<video:title>Clicker Press Robotic Automation</video:title>
+	<video:description>Robotics will have a great impact this 2017. To fully utilize the power of automation and to save labor costs, robotic automation can be integrated to your current clicker press system.</video:description>
+	<video:tag>Robotics</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/uf5CECKgOiA</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/uf5CECKgOiA/default.jpg</video:thumbnail_loc>
+	<video:title>How Section 179 can help you invest </video:title>
+	<video:description>Automation may require an extra effort and investment but it will be worth it in the long run. Learn how tax deduction opportunities through section 179 can help you and your business.</video:description>
+	<video:tag>Section 179</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>Tax Deduction</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/u8VKxKSL5Y4</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/u8VKxKSL5Y4/default.jpg</video:thumbnail_loc>
+	<video:title>abs die cutting with 40 ton beam clicker press </video:title>
+	<video:description>Using a 40 ton beam clicker press for die cutting</video:description>
+	<video:tag>Beam Press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/WND9ZlbkNoQ</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/WND9ZlbkNoQ/default.jpg</video:thumbnail_loc>
+	<video:title>Conveyor cutting press </video:title>
+	<video:description>With a conveyor cutting press, any thin material can be cut out without being crumpled and may prevent tearing.</video:description>
+	<video:tag>Conveyor Cutting Press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/6fkLFxn9nRA</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/6fkLFxn9nRA/default.jpg</video:thumbnail_loc>
+	<video:title>Fiber glass cutting press </video:title>
+	<video:description>Clicker press fiber glass</video:description>
+	<video:tag>fiber glass Cutting Press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/fFZpbDXW7a4</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/fFZpbDXW7a4/default.jpg</video:thumbnail_loc>
+	<video:title>80 ton beam press</video:title>
+	<video:description>Beam press with a cutting force of 80 ton can cut foam, leather, and other thin materials.</video:description>
+	<video:tag>80 ton beam press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/S9lCNjbmIMc</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/S9lCNjbmIMc/default.jpg</video:thumbnail_loc>
+	<video:title>light curtain setup for clicker press</video:title>
+	<video:description>Light curtain accessory for any clicker press</video:description>
+	<video:tag>light curtain</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/QJ9qCPFld6A</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/QJ9qCPFld6A/default.jpg</video:thumbnail_loc>
+	<video:title>cutting setting on control box</video:title>
+	<video:description>For your clicker press, you need to know the right cutting setting on the control box.</video:description>
+	<video:tag>cutting setting</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/RTlfeJ5i7qo</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/RTlfeJ5i7qo/default.jpg</video:thumbnail_loc>
+	<video:title>Marking laser Clicker Press</video:title>
+	<video:description>The marking laser of a clicker press can help the operator align the material.</video:description>
+	<video:tag>marking laser</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/m4_J2ol3C3c</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/m4_J2ol3C3c/default.jpg</video:thumbnail_loc>
+	<video:title>cutting in auto feed with 100 ton conveyor beam clicker press </video:title>
+	<video:description>This automatic-feeding beam press with conveyor can cut with a force of 100 ton.</video:description>
+	<video:tag>auto-feed beam press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/F0jLhl4YbNI</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/F0jLhl4YbNI/default.jpg</video:thumbnail_loc>
+	<video:title>Lifting the clicker press</video:title>
+	<video:description>This shows how the clicker press is lifted before shipping.</video:description>
+	<video:tag>shipping the clicker press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/Q0vXmK9KYN0</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/Q0vXmK9KYN0/default.jpg</video:thumbnail_loc>
+	<video:title>Carbon Fiber cutting clicker press</video:title>
+	<video:description>This is how a Clicker Press can cut a carbon fiber material into desired forms and shapes.</video:description>
+	<video:tag>carbon fiber</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/vLgoCTspaSM</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/vLgoCTspaSM/default.jpg</video:thumbnail_loc>
+	<video:title>plane clicker press auto</video:title>
+	<video:description>Automatic plane clicker press can cut thin materials, such as plastic, paper, card, and leather.</video:description>
+	<video:tag>plane press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/ZR85J3dTcK0</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/ZR85J3dTcK0/default.jpg</video:thumbnail_loc>
+	<video:title>TR Valve Block Release</video:title>
+	<video:description>Releasing blocked TR valve</video:description>
+	<video:tag>cutting press maintenance</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/X-ggpp8VyKQ</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/X-ggpp8VyKQ/default.jpg</video:thumbnail_loc>
+	<video:title>travel head clicker press auto cnc</video:title>
+	<video:description>This is a traveling head press with automatic CNC functions.</video:description>
+	<video:tag>travel head press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/iNE75ATMChg</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/iNE75ATMChg/default.jpg</video:thumbnail_loc>
+	<video:title>Rotary Clicker Press</video:title>
+	<video:description>This video shows a full automatic rotary clicker press.</video:description>
+	<video:tag>rotating press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/5hiJhkP8xhE</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/5hiJhkP8xhE/default.jpg</video:thumbnail_loc>
+	<video:title>40 ton clicker press</video:title>
+	<video:description>A clicker with cutting force of up to 40 tons.</video:description>
+	<video:tag>40 ton press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/L6KPlGvhG6U</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/L6KPlGvhG6U/default.jpg</video:thumbnail_loc>
+	<video:title>40 ton clicker press from CJR Tec</video:title>
+	<video:description>Clicker press of up to 40-ton maximum cutting force</video:description>
+	<video:tag>40 ton press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+		
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/H6MNFiQgkCw</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/H6MNFiQgkCw/default.jpg</video:thumbnail_loc>
+	<video:title>75 ton travel head cnc cutting 1" rubber</video:title>
+	<video:description>This is a 75 ton travel head clicker press with cnc, which is cutting shapes from a 1 inch rubber.</video:description>
+	<video:tag>Beam Press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/SgvLZrM6Q5A</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/SgvLZrM6Q5A/default.jpg</video:thumbnail_loc>
+	<video:title>Swing arm clicker press</video:title>
+	<video:description>10 ton swing arm press perfect for small materials for multi-production</video:description>
+	<video:tag>10 ton press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/FvyQ1vnINYw</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/FvyQ1vnINYw/default.jpg</video:thumbnail_loc>
+	<video:title>40 Ton BEAM PRESS</video:title>
+	<video:description>Loading a 40 ton Beam Press for shipping</video:description>
+	<video:tag>40 ton press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/gd_2LcH05yU</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/gd_2LcH05yU/default.jpg</video:thumbnail_loc>
+	<video:title>75 ton CNC travel head </video:title>
+	<video:description>Traveling head press that can cut up to 75 ton cutting force</video:description>
+	<video:tag>Traveling head press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/Dynhs4qeLDE</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/Dynhs4qeLDE/default.jpg</video:thumbnail_loc>
+	<video:title>BEAM PLANE PRESS</video:title>
+	<video:description>40 ton beam press 63" x 29" cutting surface. Full one year warranty. We offer machines from 10 ton to 350 ton in a variety of sizes and configurations. </video:description>
+	<video:tag>Beam plane press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/Oz9JArrf1dc</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/Oz9JArrf1dc/default.jpg</video:thumbnail_loc>
+	<video:title>CJR Clicker Presses</video:title>
+	<video:description>We offer the largest selection of NEW clicker presses and the largest inventory of presses ready to ship next day. We provide same day delivery of parts and service.</video:description>
+	<video:tag>Beam press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/jvMSaWcJ97A</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/jvMSaWcJ97A/default.jpg</video:thumbnail_loc>
+	<video:title>CNC traveling head clicker press</video:title>
+	<video:description>New press setup and operation for 25 Ton CNC traveling head clicker press</video:description>
+	<video:tag>travel head press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/pvZ335U5rkE</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/pvZ335U5rkE/default.jpg</video:thumbnail_loc>
+	<video:title>Traveling Head Press</video:title>
+	<video:description>Traveling Head Clicker Press. Quick start orientation. ROUGH CUT VIDEO. Call 909 256 6699</video:description>
+	<video:tag>travel head press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+	<video:video>
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/MkhmrTb4FOo</video:player_loc>
+	<video:thumbnail_loc>http://img.youtube.com/vi/MkhmrTb4FOo/default.jpg</video:thumbnail_loc>
+	<video:title>Beam Clicker Press</video:title>
+	<video:description>Orientation of a new 25 Ton Beam Press. 60" x 19.5" Cutting surface. Call 800 733 2302 for more information</video:description>
+	<video:tag>Beam press</video:tag>
+	<video:tag>Clicker Press</video:tag>
+	<video:tag>Automatic Die Cutting Machine</video:tag>
+	<video:tag>CJR Tec</video:tag>
+	<video:category>Science and Technology</video:category>
+	</video:video>
+	
+
+</url>	
+
+
+
+</urlset>
