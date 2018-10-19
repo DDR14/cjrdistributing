@@ -1,0 +1,128 @@
+
+                  <form method="POST" action="" id="form1">
+                      
+                      <div style="display: none">
+                          <input class="form-control" type="text" name="age"/>
+                          <input class="form-control" type="text" name="address"/>
+                          <input class="form-control" type="text" name="sex"/>
+                      </div>
+                      
+                     <h4 style="padding-bottom: 3px;">
+                      <label for="company">Company</label></h4>
+                      <input type="text" class="form-control" name="company" id="company" value="<?php echo $company;?>"/>
+                      <p style="color: #E74C3C;">
+                          <?php echo $Errcompany;?>
+                      </p>
+
+                  <h4>
+                      <label for="Name">Name</label></h4>
+                      <input type="text" name="name" class="form-control" id="Name" value="<?php echo $name;?>" />
+                      <p style="color: #E74C3C;">
+                          <?php echo $Errname;?>
+                      </p>
+                  <h4>
+                      <label for="size">Country</label></h4>
+                      <select id="country" name="country" class="crs-country form-control" data-region-id="state" 
+                              data-default-value="<?php echo $country;?>"></select>
+                              <p style="color: #E74C3C;">
+                          <?php echo $Errcountry;?>
+                      </p>
+                  
+                  <h4>
+                      <label for="State">State</label></h4>
+                      <select name="state" class="form-control" id="state" data-default-value="<?php echo $state;?>" ></select>
+                      <p style="color: #E74C3C;">
+                          <?php echo $Errstate;?>
+                      </p>
+                  
+
+                  <h4>
+                      <label for="phone">Phone</label></h4>
+  
+                      <input name="phone" type="text" class="form-control" id="phone"  placeholder="XXX-XXX-XXXX" value="<?php echo $phone;?>" maxlength="12"/>
+                      
+                      <h4><label for="ext">Ext</label></h4>
+                      <input class="form-control" name="ext" type="text" id="ext" value="<?php echo $ext;?>"/>
+                      <p style="color: #E74C3C;">
+                          <?php echo $Errphone;?>
+                      </p>
+                      <p style="color: #E74C3C;"">
+                          <?php echo $Errext;?>
+                      </p>
+                  
+                  <h4>
+                      <label for="email">Email</label></h4>
+                      <input class="form-control" name="email" type="text" value="<?php echo $email;?>" id="email" placeholder="Login details will be sent HERE"/>
+                      <p style="color: #E74C3C;"">
+                          <?php echo $Erremail;?>
+                      </p>
+                  
+                  <h4>
+                      Do you already own a clicker press?</h4>
+                  <input type="radio" name="own_clicker" <?php if (isset($own_clicker) && $own_clicker=="yes") echo "checked";?> value="yes">Yes
+                  <input type="radio" name="own_clicker" <?php if (isset($own_clicker) && $own_clicker=="no") echo "checked";?> value="no">No
+    
+  
+                  <p style="color: #E74C3C;">
+                          <?php echo $Errown_clicker;?>
+                  </p>
+
+                  
+                  
+                  <h4 style="padding-bottom: 3px;">Which Press are you interested in </h4>
+                  <h4 style="padding-bottom: 3px;">
+                      <label for="presses">Type of Press</label></h4>
+  
+                      <select name="presses" id="presses" class="form-control">
+                          <option value="" disabled selected>Select Here</option>
+                          <option value="notSure">Not Sure</option>
+                          <option value="swingArm">Swing Arm Presses</option>
+                          <option value="beam">Beam Presses</option>
+                          <option value="travelHead">Traveling Head Presses</option>
+                          <option value="recedingBeam">Receding Beam Presses</option>
+                          <option value="cncTravelHead">CNC Traveling Head Presses</option>
+                          <option value="customPress">Custom Designed Press</option>
+                          <option value="routerTable" >CnC Router Table</option>
+                          <option value="laserTable">Laser Cutting Tables</option>
+  
+                      </select>
+                      <script type="text/javascript">
+                        document.getElementById('presses').value = "<?php echo $presses;?>";
+                      </script>
+                      <p style="color: #E74C3C;">
+                          <?php echo $Errpresses;?>
+                      </p>
+  
+                      
+                  
+                  <h4 style="padding-bottom: 3px;">
+                      <label for="size">Tonnage Requirement</label></h4>
+                      <select name="size" id="size" class="form-control">
+                          <option value="" disabled selected>Select Here</option>
+                          <option value="notSure">Not Sure</option>
+                          <option value="10ton">10 Ton</option>
+                          <option value="20ton">20 Ton</option>
+                          <option value="27ton">27 Ton</option>
+                          <option value="35ton" >35 Ton</option>
+                          <option value="40ton" >40 Ton</option>
+                          <option value="50ton" >50 Ton</option>
+                          <option value="75ton" >75 Ton</option>
+                          <option value="80ton" >80 Ton</option>
+                          <option value="100ton" >100 Ton</option>
+                          <option value="125ton">125 Ton</option>
+                          <option value="150ton">150 Ton</option>
+                          <option value="175ton">175 Ton</option>
+                          <option value="200ton">200 Ton</option>
+                          <option value="200more">Larger than 200 Ton</option>
+                      </select>
+                      <script type="text/javascript">
+                        document.getElementById('size').value = "<?php echo $size;?>";
+                      </script>
+                      <p style="color: #E74C3C;">
+                          <?php echo $Errsize;?>
+                      </p>
+                               
+               <button type="submit" name="submit" value="Submit" class="btn btn-primary btn-lg"> Submit</button>
+            </form>
+
+  

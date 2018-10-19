@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Disallow: /client/
+
+Sitemap: http://www.cjrtec.com/sitemap.xml

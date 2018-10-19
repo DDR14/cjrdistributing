@@ -1,0 +1,150 @@
+<?php
+
+
+require_once 'inc/inc.block-ip.php';
+
+
+$site = $_SERVER['SERVER_NAME'];
+$lang = "en-us";
+$author = "";
+
+$page = "";
+
+require_once 'meta-title2.php';
+
+$index_cano = '<link rel="canonical" href="http://'.$site.'/" />';
+$swing_arm_cano = '<link rel="canonical" href="http://'.$site.'/swing-arm-press.php" />';
+$traveling_head_cano = '<link rel="canonical" href="http://'.$site.'/traveling-head-press.php" />';
+$beam_press_cano = '<link rel="canonical" href="http://'.$site.'/beam-press.php" />';
+$conveyor_press_cano = '<link rel="canonical" href="http://'.$site.'/conveyor-press.php" />';
+$contact_cano = '';
+$about_cano = '';
+$used_clicker_press_cano = '';
+$clicker_press_shipping_cano = '';
+$die_cut_testing_cano = '';
+$cutting_boards_cano = '';
+$atom_press_parts_cano = '';
+$die_makers_cano = '';
+$die_drawings_cano = '';
+$die_size_cano = '';
+$die_maintenance_cano = '';
+$types_of_dies_cano = '';
+$die_bevel_cano = '';
+$welded_rule_cano = '';
+$ejection_options_cano = '';
+$commercial_die_cutting_cano = '';
+$warranty_cano = '';
+$registration_pins_cano = '';
+$tonnage_formula_cano = '';
+$accessories_cano = '';
+$clicker_press_parts_cano = '';
+$finance_cano = '';
+$buyback_cano = '';
+$branding_cano = '';
+$airport_cano = '';
+$hotel_cano = '';
+$diagnostics_cano = '';
+$technicians_cano = '';
+$referrals_cano = '';
+$distributors_cano = '';
+$franchise_cano = '';
+$steel_rule_cano = '';
+$steel_rule_depth_cano = '';
+$training_cano = '';
+$customers_cano = '';
+$forgot_password_cano = '';
+$clickerpress_cano = '<link rel="canonical" href="http://'.$site.'/clicker-press.php" />';
+
+
+$swing_arm_press_testing_cano = '';
+$hole_punches_cano = '';
+$registration_cano = '';
+$videos_cano = '';
+$login_cano = '';
+$receding_beam_cano = '<link rel="canonical" href="http://'.$site.'/receding-beam-press.php" />';
+$auto_table_beam_cano = '<link rel="canonical" href="http://'.$site.'/auto-table-beam-press.php" />';
+$cnc_router_cano = '<link rel="canonical" href="http://'.$site.'/cnc-router.php" />';
+$wide_open_cano = '<link rel="canonical" href="http://'.$site.'/wide-open.php" />';
+$up_pressure_beam_press_cano = '<link rel="canonical" href="http://'.$site.'/up-pressure-beam-press.php" />';
+$china_steel_cano = '';
+$die_consideration_cano = '';
+$customer_test_cano = '';
+$unsubscribe_cano = '';
+$confirmEmail_cano = '';
+$links_cano = '';
+$shipping_quote_cano = '';
+$current_inventory_cano = '<link rel="canonical" href="http://'.$site.'/current-inventory.php" />';
+$kiss_cut_press_cano = '<link rel="canonical" href="http://'.$site.'/kiss-cutting-press.php" />';
+$picking_robot_cano = '';
+$machine_detail_cano = '';
+$account_confirmation_cano = '';
+$cutting_machines_cano = '';
+$machine_detail_cano = '';
+$cutting_machines_cano = '';
+$testimonials_cano = '';
+$usabotics_robot_cano = '';
+// canonical
+
+// $index_cano = '<link rel="canonical" href="http://www.cjrtec.com/" />';
+// $swing_arm_cano = '<link rel="canonical" href="http://www.cjrtec.com/swing-arm-press.php" />';
+// $traveling_head_cano = '<link rel="canonical" href="http://www.cjrtec.com/traveling-head-press.php" />';
+// $beam_press_cano = '<link rel="canonical" href="http://www.cjrtec.com/beam-press.php" />';
+// $conveyor_press_cano = '<link rel="canonical" href="http://www.cjrtec.com/conveyor-press.php" />';
+// $contact_cano = '<link rel="canonical" href="http://www.cjrtec.com/contact.php" />';
+// $about_cano = '<link rel="canonical" href="http://www.cjrtec.com/about.php" />';
+// $used_clicker_press_cano = '<link rel="canonical" href="http://www.cjrtec.com/used-clicker-press.php" />';
+// $clicker_press_shipping_cano = '<link rel="canonical" href="http://www.cjrtec.com/clicker-press-shipping.php" />';
+// $die_cut_testing_cano = '<link rel="canonical" href="http://www.cjrtec.com/die-cut-testing.php" />';
+// $cutting_boards_cano = '<link rel="canonical" href="http://www.cjrtec.com/cutting-boards.php" />';
+// $atom_press_parts_cano = '<link rel="canonical" href="http://www.cjrtec.com/atom-press-parts.php" />';
+// $die_makers_cano = '<link rel="canonical" href="http://www.cjrtec.com/die-makers.php" />';
+// $die_drawings_cano = '<link rel="canonical" href="http://www.cjrtec.com/die-drawings.php" />';
+// $die_size_cano = '<link rel="canonical" href="http://www.cjrtec.com/die-size.php" />';
+// $die_maintenance_cano = '<link rel="canonical" href="http://www.cjrtec.com/die-maintenance.php" />';
+// $types_of_dies_cano = '<link rel="canonical" href="http://www.cjrtec.com/types-of-dies.php" />';
+// $die_bevel_cano = '<link rel="canonical" href="http://www.cjrtec.com/die-bevel.php" />';
+// $welded_rule_cano = '<link rel="canonical" href="http://www.cjrtec.com/welded-rule.php" />';
+// $ejection_options_cano = '<link rel="canonical" href="http://www.cjrtec.com/ejection-options.php" />';
+// $commercial_die_cutting_cano = '<link rel="canonical" href="http://www.cjrtec.com/commercial-die-cutting.php" />';
+// $warranty_cano = '<link rel="canonical" href="http://www.cjrtec.com/warranty.php" />';
+// $registration_pins_cano = '<link rel="canonical" href="http://www.cjrtec.com/registration-pins.php" />';
+// $tonnage_formula_cano = '<link rel="canonical" href="http://www.cjrtec.com/tonnage-formula.php" />';
+// $accessories_cano = '<link rel="canonical" href="http://www.cjrtec.com/accessories.php" />';
+// $clicker_press_parts_cano = '<link rel="canonical" href="http://www.cjrtec.com/clicker-press-parts.php" />';
+// $finance_cano = '<link rel="canonical" href="http://www.cjrtec.com/finance.php" />';
+// $buyback_cano = '<link rel="canonical" href="http://www.cjrtec.com/buyback.php" />';
+// $branding_cano = '<link rel="canonical" href="http://www.cjrtec.com/branding.php" />';
+// $airport_cano = '<link rel="canonical" href="http://www.cjrtec.com/airport.php" />';
+// $hotel_cano = '<link rel="canonical" href="http://www.cjrtec.com/hotel.php" />';
+// $diagnostics_cano = '<link rel="canonical" href="http://www.cjrtec.com/diagnostics.php" />';
+// $technicians_cano = '<link rel="canonical" href="http://www.cjrtec.com/technicians.php" />';
+// $referrals_cano = '<link rel="canonical" href="http://www.cjrtec.com/referrals.php" />';
+// $distributors_cano = '<link rel="canonical" href="http://www.cjrtec.com/distributors.php" />';
+// $franchise_cano = '<link rel="canonical" href="http://www.cjrtec.com/franchise.php" />';
+// $steel_rule_cano = '<link rel="canonical" href="http://www.cjrtec.com/steel-rule.php" />';
+// $steel_rule_depth_cano = '<link rel="canonical" href="http://www.cjrtec.com/steel-rule-depth.php" />';
+// $training_cano = '<link rel="canonical" href="http://www.cjrtec.com/training.php" />';;
+// $customers_cano = '<link rel="canonical" href="http://www.cjrtec.com/customers.php" />';
+// $forgot_password_cano = '<link rel="canonical" href="http://www.cjrtec.com/forgot-password.php" />';
+// $clickerpress_cano = '<link rel="canonical" href="http://www.cjrtec.com/clicker-press.php" />';
+
+
+// $swing_arm_press_testing_cano = '<link rel="canonical" href="http://www.cjrtec.com/swing-arm-press-testing.php" />';
+// $hole_punches_cano = '<link rel="canonical" href="http://www.cjrtec.com/hole-punches.php" />';
+// $registration_cano = '<link rel="canonical" href="http://www.cjrtec.com/registration.php" />';
+// $videos_cano = '<link rel="canonical" href="http://www.cjrtec.com/videos.php" />';
+// $login_cano = '<link rel="canonical" href="http://www.cjrtec.com/login.php" />';
+// $receding_beam_cano = '<link rel="canonical" href="http://www.cjrtec.com/receding-beam-press.php" />';
+// $auto_table_beam_cano = '<link rel="canonical" href="http://www.cjrtec.com/auto-table-beam-press.php" />';
+// $cnc_router_cano = '<link rel="canonical" href="http://www.cjrtec.com/cnc-router.php" />';
+// $wide_open_cano = '<link rel="canonical" href="http://www.cjrtec.com/wide-open.php" />';
+// $up_pressure_beam_press_cano = '<link rel="canonical" href="http://www.cjrtec.com/up-pressure-beam-press.php" />';
+// $china_steel_cano = '<link rel="canonical" href="http://www.cjrtec.com/china-steel.php" />';
+// $die_consideration_cano = '<link rel="canonical" href="http://www.cjrtec.com/die-consideration.php" />';
+// $customer_test_cano = '<link rel="canonical" href="http://www.cjrtec.com/customer-test.php" />';
+// $unsubscribe_cano = '<link rel="canonical" href="http://www.cjrtec.com/unsubscribe.php" />';
+// $confirmEmail_cano = '<link rel="canonical" href="http://www.cjrtec.com/confirmEmail.php" />';
+// $links_cano = '<link rel="canonical" href="http://www.cjrtec.com/links.php" />';
+// $shipping_quote_cano = '<link rel="canonical" href="http://www.cjrtec.com/shipping-quote.php" />';
+// $current_inventory_cano = '<link rel="canonical" href="http://www.cjrtec.com/current-inventory.php" />';
+// $kiss_cut_press_cano = '<link rel="canonical" href="http://www.cjrtec.com/kiss-cutting-press.php" />';
